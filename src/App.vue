@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <p>test</p>
     <my-header></my-header>
     <my-tab></my-tab>
     <keep-alive>
